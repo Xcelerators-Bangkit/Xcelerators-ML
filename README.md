@@ -7,14 +7,14 @@
 
 ## Steps for model training
 1. First download the datasets from the following link: https://drive.google.com/drive/folders/17_vJzfcs4KFM9Nkqv1Bjt4HIpGLQYtMo?usp=drive_link
-   h1 align="center">
-    <br>
-    <a href="#"><img src="https://github.com/luthfiadilal/HikeWise/assets/98248550/304f3941-538e-4593-9581-c4ffeea47cf1" alt="Markdownify" width="200"></a>
-    <br>
-    HikeWise
-    <br>
-    “Pendaki Bijaksana”
-  </h1>
+   <h1 align="center">
+       <br>
+       <a href="#"><img src="https://github.com/luthfiadilal/HikeWise/assets/98248550/304f3941-538e-4593-9581-c4ffeea47cf1" alt="Markdownify" width="200"></a>
+       <br>
+       HikeWise
+       <br>
+       “Pendaki Bijaksana”
+   </h1>
 
 3. Pre-processing the data and clean it up by separating the data into training, validation, and test.
 4. Then, rescale the image and also determine the target image size that we will use. We use a target size of 224px.
