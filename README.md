@@ -9,7 +9,7 @@
 1. First download the datasets from the following link: https://drive.google.com/drive/folders/17_vJzfcs4KFM9Nkqv1Bjt4HIpGLQYtMo?usp=drive_link
    <h1 align="center">
        <br>
-       <a href="#"><img src="https://github.com/luthfiadilal/HikeWise/assets/98248550/304f3941-538e-4593-9581-c4ffeea47cf1" alt="Markdownify" width="200"></a>
+       <a href="#"><img src="https://drive.google.com/file/d/1szqge5U1X3PHMmJjrOCm3KF1YaqIhrOr/view?usp=sharing" alt="Markdownify" width="200"></a>
        <br>
        HikeWise
        <br>
